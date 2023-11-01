@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Srujana Ande
-====================================================================================================================================
-
-Aspiring Data Analyst
----------------------
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srujana Ande
+#### Aspiring Data Analyst
+![Aspiring Data Analyst](https://github.com/sru2727/sru2727/blob/main/git%20banner.png)
 
 I am a Bachelor's degree holder in Maths, Statistics and Economics in 2022. Loves! Analysing and Playing with Data.
 
@@ -13,11 +11,9 @@ I am a Bachelor's degree holder in Maths, Statistics and Economics in 2022. Love
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
 
 ### Socials
 
