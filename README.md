@@ -1,6 +1,7 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srujana Ande
+![git banner](https://github.com/sru2727/sru2727/blob/main/git%20banner.png)
+
+### Hi!👋My name is Srujana Ande
 #### Aspiring Data Analyst
-![Aspiring Data Analyst](https://github.com/sru2727/sru2727/blob/main/git%20banner.png)
 
 I am a Bachelor's degree holder in Maths, Statistics and Economics in 2022. Loves! Analysing and Playing with Data.
 
